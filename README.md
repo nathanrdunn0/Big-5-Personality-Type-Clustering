@@ -19,3 +19,5 @@ Data:
 The dataset contains 1,015,342 questionnaire answers collected online by Open Psychometrics
 
 Description and download: https://www.kaggle.com/datasets/tunguz/big-five-personality-test
+
+Assessment: https://openpsychometrics.org/tests/IPIP-BFFM/
